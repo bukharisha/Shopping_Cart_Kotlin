@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping_Cart_Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iphone11_description">iPhone 11, launched in 2019, is a powerhouse in a compact package. With its 6.1-inch Liquid Retina HD display, it delivers vibrant visuals and sharp details. Powered by the A13 Bionic chip, it ensures smooth performance for all your tasks.
+
+The iPhone 11 stands out with its dual-camera setup, featuring 12-megapixel wide and ultra-wide lenses. Capture stunning photos and 4K videos with ease, even in low light, thanks to Night mode. The sleek glass and aluminum design not only look elegant but also offer improved water resistance.
+
+Unlock your iPhone 11 securely with Face ID and enjoy the convenience of Apple Pay for transactions. Running on iOS, it provides access to a wide range of apps from the App Store. With its long-lasting battery and fast charging support, the iPhone 11 is your perfect companion for all-day use.</string>
+
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5(Max)</item>
+    </string-array>
+</resources>
